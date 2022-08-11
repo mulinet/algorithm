@@ -17,6 +17,7 @@ const solutionASC = (array) => {
         array[prev+1]=temp;
     }
     console.log(array.toString());
+    console.log(array.join('\n'));
 }
 
 const solutionDESC = (array) => {
@@ -30,6 +31,7 @@ const solutionDESC = (array) => {
         array[prev+1]=temp;
     }
     console.log(array.toString());
+    console.log(array.join('\n'));
 }
 
 solutionASC(_inArray);
