@@ -4,7 +4,7 @@
 
 1. 선택정렬
 2. 삽입정렬
-
+3. Merge sort
 
 # Reference site 
  * [Tech Interview for developer](https://gyoogle.dev/blog/algorithm/Insertion%20Sort.html)
